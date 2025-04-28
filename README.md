@@ -1,2 +1,2 @@
 # project-1
-Pythonda kichik grafik loyiha
+Ushbu repositoriyda pythonda qilingan kichik loyihalar kodlari mavjud
